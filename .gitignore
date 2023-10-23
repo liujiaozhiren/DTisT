@@ -1,0 +1,7 @@
+data.demo/*
+log/*
+modfile/*
+.idea*
+proc/__pycache__/*
+util/__pycache__/*
+__pychache__*
