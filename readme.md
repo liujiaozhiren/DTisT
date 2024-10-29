@@ -1,6 +1,7 @@
 # DTisT
 
 The details of the formulas in the paper can be found in the technical_report.pdf.
+
 The code utilizes the `traj-dist` library for calculating distances/similarities and related matched point pairs between trajectories.
 
 ## Note
